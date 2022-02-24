@@ -1,2 +1,0 @@
-# RickRoll
-RickRoll Your Friends ;)
